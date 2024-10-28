@@ -16,7 +16,24 @@ body {
         color: cornflowerblue;
      }
 
-     img {
+     header img {
 
         width: 150px;
+        height: 150px;
+
+        border-radius: 50%;
+        border: 5px solid blue;
      }
+
+     center {
+
+        text-align: center;
+     }
+
+
+       footer img {
+         width: 20px
+         height 20px;
+
+
+       }
